@@ -16,12 +16,12 @@ The goal of this assignment was to build a multi-page fitness-themed website usi
 - Key features listed
 - Navigation bar for easy access to other pages
 
-### 2. `aboutus.html` – About the Developer
+### 2. `aboutus.html` – About the Founder and Website
 - Professional background and role of the developer
 - Technologies used in building the website
 - GitHub repo link included
 
-### 3. `manageclients.html` – Progress Tracker (CRUD)
+### 3. `Progress Tracker.html` – Progress Tracker (CRUD)
 - A mock form for managing client data
 - Add, update, delete, and view functionality using plain JavaScript
 - Data table showing client info
